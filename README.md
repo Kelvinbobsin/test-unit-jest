@@ -15,7 +15,7 @@ git clone https://github.com/Kelvinbobsin/test-unit-jest.git
 
 ### Navegue até o diretório do projeto
 ```
-cd testes unitarios
+cd test-unit-jest
 ```
 ### Instale as dependências:
 ```
