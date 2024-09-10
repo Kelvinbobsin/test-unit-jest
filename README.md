@@ -1,5 +1,5 @@
 # Introdução
-Este projeto visa a criação e execução de testes unitários, utilizando o frameworks Jest, para ter uma melhor cobertura dos testes.
+Este projeto visa a criação e execução de testes unitários, utilizando a linguagem Javascript e o frameworks Jest, para ter uma melhor cobertura dos testes.
 
 # Como Baixar e Rodar o Projeto
 
