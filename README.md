@@ -9,35 +9,35 @@ Este projeto visa a criação e execução de testes unitários, utilizando a li
 - Git - Você encontra em: https://git-scm.com/downloads
 
 ### Via terminal, rode os seguintes comandos:
-``
+```
 git clone https://github.com/Kelvinbobsin/test-unit-jest.git
-``
+```
 
 ### Navegue até o diretório do projeto
-``
+```
 cd testes unitarios
-``
+```
 ### Instale as dependências:
-``
+```
 npm init
-``
+```
 
-``
+```
 npm init -y
-``
+```
 
-``
+```
 npm install
-``
+```
 
-``
+```
 npm i jest
-``
+```
 ### Execute os testes:
-``
+```
 npx jest --coverage
-``
+```
 
-``
+```
 npm test
-``
+```
