@@ -10,7 +10,7 @@ Este projeto visa a criação e execução de testes unitários, utilizando a li
 
 ### Via terminal, rode os seguintes comandos:
 ``
-git clone 
+git clone https://github.com/Kelvinbobsin/test-unit-jest.git
 ``
 ### Navegue até o diretório do projeto
 ``
@@ -33,6 +33,7 @@ npm i jest
 ``
 npx jest --coverage
 ``
+
 ``
 npm test
 ``
