@@ -12,6 +12,7 @@ Este projeto visa a criação e execução de testes unitários, utilizando a li
 ``
 git clone https://github.com/Kelvinbobsin/test-unit-jest.git
 ``
+
 ### Navegue até o diretório do projeto
 ``
 cd testes unitarios
@@ -20,12 +21,15 @@ cd testes unitarios
 ``
 npm init
 ``
+
 ``
 npm init -y
 ``
+
 ``
 npm install
 ``
+
 ``
 npm i jest
 ``
