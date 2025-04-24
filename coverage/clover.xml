@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1726250527019" clover="3.2.0">
-  <project timestamp="1726250527019" name="All files">
-    <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="26" coveredelements="26" complexity="0" loc="15" ncloc="15" packages="1" files="4" classes="4"/>
+<coverage generated="1745450943759" clover="3.2.0">
+  <project timestamp="1745450943759" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="7" coveredconditionals="7" methods="9" coveredmethods="9" elements="38" coveredelements="38" complexity="0" loc="22" ncloc="22" packages="1" files="6" classes="6"/>
+    <file name="calculaMedia.js" path="E:\Estudos\Testes unitarios\test-unit-jest\src\calculaMedia.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
     <file name="calculadora.js" path="E:\Estudos\Testes unitarios\test-unit-jest\src\calculadora.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="2" count="1" type="stmt"/>
@@ -27,6 +32,14 @@
       <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
       <line num="3" count="1" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="validaSenha.js" path="E:\Estudos\Testes unitarios\test-unit-jest\src\validaSenha.js">
+      <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="3" falsecount="0"/>
       <line num="9" count="1" type="stmt"/>
     </file>
   </project>
